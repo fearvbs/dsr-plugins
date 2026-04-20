@@ -1,19 +1,5 @@
 {
   "version": 1,
   "plugins": [
-    {
-      "name": "base64",
-      "version": "0.1.0",
-      "description": "Base64 encode/decode data streams",
-      "download_url": "https://github.com/fearvbs/dsr-plugins/releases/download/v0.1.0/dsr-base64-windows.exe",
-      "binary_name": "dsr-base64.exe"
-    },
-    {
-      "name": "crypt",
-      "version": "0.1.0",
-      "description": "AES-256-GCM encryption/decryption",
-      "download_url": "https://github.com/fearvbs/dsr-plugins/releases/download/v0.1.0/dsr-crypt-windows.exe",
-      "binary_name": "dsr-crypt.exe"
-    }
   ]
 }
