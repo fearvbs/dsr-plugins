@@ -1,5 +1,12 @@
 {
   "version": 1,
   "plugins": [
+    {
+      "name": "base64",
+      "version": "0.1.0",
+      "description": "Base64 encode/decode data streams",
+      "download_url": "https://raw.githubusercontent.com/fearvbs/dsr-plugins/main/base64/dsr-base64.exe",
+      "binary_name": "dsr-base64.exe"
+    }
   ]
 }
